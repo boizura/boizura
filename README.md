@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boizura
 - 👀 I’m interested in art, space, and nature
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything that will yield great results
+- 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me email: liyahfleming6404@gmail.com
 
 <!---
